@@ -2,7 +2,7 @@
 
 # matrix portal + RGB matrix binary clock
 # Runs on Airlift Metro M4 with 64x32 RGB Matrix display & shield
-# Add thermistor between pin A0
+# Add thermistor between pin A4 and 3V3, add 10K resistor between A4 and GND
 
 import time
 import board
